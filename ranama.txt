@@ -1,0 +1,2 @@
+install :
+npm install dotenv alchemy-sdk pg
